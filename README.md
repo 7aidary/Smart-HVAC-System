@@ -84,7 +84,7 @@ python -m streamlit run dashboard.py
 ---
 
 ## Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](Assets/Dashboard.png)
 The dashboard displays:
 
 - Live temperature
