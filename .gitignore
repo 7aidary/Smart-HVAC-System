@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# YOLO outputs
+runs/
+
+# VS Code
+.vscode/
+
+# Runtime state
+spc_state.json
